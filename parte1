@@ -1,0 +1,185 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" lang=es />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Jatuaida06</title>
+<style>
+p{
+  text-align: justify;
+  font-size:1.0em;
+}
+td{
+   padding-left:10px;
+   padding-right:10px;
+}
+blockquote{
+  text-align: justify;
+  width: 80%;
+  margin: auto;
+  
+}
+body{
+  margin:0;
+  background-color:#dddddd;
+}
+.img-style {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 0;
+  width:5%;
+  float: left;
+}
+.div1{
+  width:50%;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #DDDDDD;
+  padding-left:5%;
+  padding-right:5%;
+  left:2px;
+  position: relative;
+  z-index: -1;
+  float: left;
+  background-color:#FFDDDD;
+}
+.div2{
+  width:29%;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #DDDDDD;
+  padding-left:5%;
+  padding-right:5%;
+  left:0px;
+  position: relative;
+  z-index: -1;
+  float: right;
+  background-color:#FF0000;
+}
+* {
+  box-sizing: border-box;
+}
+.column {
+  float: left;
+  width: 50%;
+  padding: 20px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #DDDDDD;
+  
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #DDDDDD;
+}
+.title{
+  text-align: center;
+  font-size:1.5em;
+  font-weight:900;
+}
+.sub-title{
+    font-size:1.3em;
+	font-weight: bold;
+}
+.content{
+  width:90%;
+  margin:auto;
+	box-shadow: 5px 5px 10px #888888;
+	padding:10px 30px 10px 30px;
+	margin-top:10px;
+  background-color:#ffffff;
+}
+.content2{
+  width:90%;
+  margin:auto;
+	box-shadow: 5px 5px 10px #888888;
+	padding:0px;
+
+}
+.auto-style2 {
+	text-align: left;
+	margin:1px;
+}
+.tabla{
+   background-color:#dddddd;
+	 padding:4px;
+	 box-shadow: 5px 5px 4px 4px #888888;
+
+}
+.tabla-contenedor {
+  width: 100%; /* Asegura que el contenedor ocupe todo el ancho disponible */
+  overflow-x: auto; /* Permite desplazamiento horizontal si el contenido de la tabla es más ancho que el contenedor */
+   background-color:#dddddd;
+	 padding:4px;
+	 box-shadow: 5px 5px 10px #888888;
+}
+
+.tabla-estilo {
+  width: 100%; /* La tabla ocupa todo el ancho del contenedor */
+  table-layout: fixed; /* Fija el ancho de las columnas según el ancho especificado o el contenido */
+}
+
+.tabla-estilo th,
+.tabla-estilo td {
+  padding: 8px; /* Espaciado interno de las celdas */
+  text-align: left; /* Alineación del texto en las celdas */
+  border: 1px solid #ccc; /* Borde de las celdas */
+}
+
+.doi{
+   text-align:center;
+   margin-top:50px;
+   margin-bottom:50px;
+}
+.autor{
+  text-align: left; font-size: 1em;margin-top:30px;margin-bottom:1px;font-weight:bold;
+}
+.institucion{
+  text-align: left; font-size: 1em;margin-top:4px;margin-bottom:4px;
+}
+.email{
+  text-align: left; font-size: 1em;margin-top:4px;margin-bottom:10px;
+}
+.orcid{
+    text-align: left; font-size: 1em;margin-top:4px;margin-bottom:4px;
+}
+.fecha{
+   text-align: left; font-size: 1em;margin-top:4px;margin-bottom:4px;
+}
+
+
+
+table {border-collapse: collapse; border-spacing: 0;}
+th, td {padding: 0.25em 0.75em;}
+
+thead th {border-bottom: 1px solid #333;border-top: 1px solid #333; text-align: center; font-weight: bold;}
+tfoot th, tfoot td {border-top: 2px solid #666; color: #363;}
+
+.img-container{
+    width:50%;backgroud-color.#ddddff;margin:auto;
+}
+.figura{
+   width:80%;
+   box-shadow: 5px 5px 10px #888888;
+}
+.div-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+
+</style>
+
+</head>
+
+<body>
+<div class="content2" style="background-color:#ddddFF;">
+  <img src="images/CINTILLO.png" width="100%"  >
+</div>
+
+<div class="content">
