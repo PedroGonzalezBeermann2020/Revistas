@@ -10,6 +10,7 @@ p{
   text-align: justify;
   font-size:1.0em;
 }
+
 td{
    padding-left:10px;
    padding-right:10px;
@@ -190,6 +191,12 @@ img{
 } 
 .citacion{
     text-indent:20px;
+}
+.negrita{
+    font-weight:800;
+}
+.italica{
+    font-style:italic;
 }
 
 
